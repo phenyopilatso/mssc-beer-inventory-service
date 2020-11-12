@@ -1,5 +1,7 @@
-package guru.sfg.brewery.model;
+package guru.sfg.brewery.model.events;
 
+import guru.sfg.brewery.model.BeerDto;
+import guru.sfg.brewery.model.BeerEvent;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
